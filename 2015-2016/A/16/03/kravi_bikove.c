@@ -24,3 +24,4 @@ void main(void)
                 c1 = 1;
         }
 }
+/*Programata ne e v zavurshen vid. Obshta rabota mejdu 05 i 16 nomer v klasa.*/
